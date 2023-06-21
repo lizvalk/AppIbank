@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3q670ev6h3i2gamb?svg=true)](https://ci.appveyor.com/project/lizvalk/appibank)
